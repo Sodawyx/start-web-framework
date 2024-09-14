@@ -10,8 +10,6 @@
 </description>
 
 
-
-
 ## 前期准备
 
 使用该项目，您需要有开通以下服务并拥有对应权限：
@@ -42,11 +40,13 @@
 
 <appcenter>
    
-- :fire: 通过 [云原生应用开发平台 CAP](https://devs.console.aliyun.com/applications/create?template=start-laravel-cap) ，
-  [![Deploy with Severless Devs](https://img.alicdn.com/imgextra/i1/O1CN01w5RFbX1v45s8TIXPz_!!6000000006118-55-tps-95-28.svg)](https://devs.console.aliyun.com/applications/create?template=start-laravel-cap) 该应用。
+- :fire: 通过 [云原生应用开发平台 CAP](https://devs.console.aliyun.com/applications/create?template=start-laravel-cap) ，[![Deploy with Severless Devs](https://img.alicdn.com/imgextra/i1/O1CN01w5RFbX1v45s8TIXPz_!!6000000006118-55-tps-95-28.svg)](https://devs.console.aliyun.com/applications/create?template=start-laravel-cap) 该应用。
    
 </appcenter>
-
+<deploy>
+    
+   
+</deploy>
 
 ## 案例介绍
 
@@ -59,7 +59,6 @@ Laravel框架是一种基于PHP编程语言开发的开源web应用框架。该�
 此外，Laravel还提供了多种不同的数据库支持，包括MySQL、PostgreSQL、SQLite和SQL Server。还包括了多种用于生成HTML、CSS和JavaScript的工具和库，以及内置的用户管理、角色管理、菜单管理、职级管理、岗位管理、部门管理、操作日志、登录日志、字典管理、配置管理、城市管理、个人中心、广告管理和站点栏目等模块，这些模块能够帮助开发者更加高效地构建和管理web应用程序。Laravel框架为开发者提供了一个强大而灵活的工具集，使得开发web应用程序变得更加简单和高效。
 
 通过云原生应用开发平台 CAP，您只需要几步，就可以体验 Laravel 框架，并享受Serverless 架构带来的降本提效的技术红利。
-
 
 </appdetail>
 
@@ -82,4 +81,3 @@ Laravel框架是一种基于PHP编程语言开发的开源web应用框架。该�
 
 <matters id="flushContent">
 </matters>
-

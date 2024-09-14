@@ -10,8 +10,6 @@
 </description>
 
 
-
-
 ## 前期准备
 
 使用该项目，您需要有开通以下服务并拥有对应权限：
@@ -42,10 +40,13 @@
 
 <appcenter>
    
-:fire: 通过 [云原生应用开发平台 CAP](https://devs.console.aliyun.com/applications/createtemplate=start-django-cap) ，[![Deploy with Severless Devs](https://img.alicdn.com/imgextra/i1/O1CN01w5RFbX1v45s8TIXPz_!!6000000006118-55-tps-95-28.svg)](https://devs.console.aliyun.com/applications/createtemplate=start-django-cap) 该应用。
+- :fire: 通过 [云原生应用开发平台 CAP](https://devs.console.aliyun.com/applications/create?template=start-django-cap) ，[![Deploy with Severless Devs](https://img.alicdn.com/imgextra/i1/O1CN01w5RFbX1v45s8TIXPz_!!6000000006118-55-tps-95-28.svg)](https://devs.console.aliyun.com/applications/create?template=start-django-cap) 该应用。
    
 </appcenter>
-
+<deploy>
+    
+   
+</deploy>
 
 ## 案例介绍
 
@@ -78,4 +79,3 @@ Django还具有高度的安全性，包括防止常见的Web攻击、CSRF保护�
 
 <matters id="flushContent">
 </matters>
-

@@ -11,7 +11,9 @@ resources:
       description: Cloud Application Platform Function
       runtime: custom
       timeout: 60
-      memorySize: 256
+      cpu: 1
+      memorySize: 1024
+      diskSize: 512
       customRuntimeConfig:
         command:
           - bash

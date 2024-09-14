@@ -10,8 +10,6 @@
 </description>
 
 
-
-
 ## 前期准备
 
 使用该项目，您需要有开通以下服务并拥有对应权限：
@@ -42,10 +40,13 @@
 
 <appcenter>
    
-:fire: 通过 [云原生应用开发平台 CAP](https://devs.console.aliyun.com/applications/createtemplate=start-flask-cap) ，[![Deploy with Severless Devs](https://img.alicdn.com/imgextra/i1/O1CN01w5RFbX1v45s8TIXPz_!!6000000006118-55-tps-95-28.svg)](https://devs.console.aliyun.com/applications/createtemplate=start-flask-cap) 该应用。
+- :fire: 通过 [云原生应用开发平台 CAP](https://devs.console.aliyun.com/applications/create?template=start-flask-cap) ，[![Deploy with Severless Devs](https://img.alicdn.com/imgextra/i1/O1CN01w5RFbX1v45s8TIXPz_!!6000000006118-55-tps-95-28.svg)](https://devs.console.aliyun.com/applications/create?template=start-flask-cap) 该应用。
    
 </appcenter>
-
+<deploy>
+    
+   
+</deploy>
 
 ## 案例介绍
 
@@ -72,10 +73,10 @@ Flask是一个使用 Python 编写的轻量级 Web 应用框架。其 WSGI 工�
 
 ![图片alt](https://img.alicdn.com/imgextra/i1/O1CN01wlEjIY1MWwVhTwOwC_!!6000000001443-0-tps-1308-422.jpg)
 
+
 </usedetail>
 
 ## 注意事项
 
 <matters id="flushContent">
 </matters>
-

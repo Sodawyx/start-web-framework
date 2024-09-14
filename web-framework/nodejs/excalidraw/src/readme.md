@@ -10,8 +10,6 @@
 </description>
 
 
-
-
 ## 前期准备
 
 使用该项目，您需要有开通以下服务并拥有对应权限：
@@ -42,11 +40,13 @@
 
 <appcenter>
    
-- :fire: 通过 [云原生应用开发平台 CAP](https://devs.console.aliyun.com/applications/create?template=website-excalidraw-cap) ，
-  [![Deploy with Severless Devs](https://img.alicdn.com/imgextra/i1/O1CN01w5RFbX1v45s8TIXPz_!!6000000006118-55-tps-95-28.svg)](https://devs.console.aliyun.com/applications/create?template=website-excalidraw-cap) 该应用。
+- :fire: 通过 [云原生应用开发平台 CAP](https://devs.console.aliyun.com/applications/create?template=website-excalidraw-cap) ，[![Deploy with Severless Devs](https://img.alicdn.com/imgextra/i1/O1CN01w5RFbX1v45s8TIXPz_!!6000000006118-55-tps-95-28.svg)](https://devs.console.aliyun.com/applications/create?template=website-excalidraw-cap) 该应用。
    
 </appcenter>
-
+<deploy>
+    
+   
+</deploy>
 
 ## 案例介绍
 
@@ -86,4 +86,3 @@ Excalidraw 的功能包括但不限于基本的图形绘制、文本输入、颜
 
 <matters id="flushContent">
 </matters>
-

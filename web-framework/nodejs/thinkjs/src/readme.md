@@ -5,11 +5,9 @@
 
 <description>
 
-ThinkJS 是一款面向未来开发的 Node.js 框架，整合了大量的项目最佳实践，让企业级开发变得更简单、高效。从 3.0 开始，框架底层基于 Koa 2.x 实现，兼容 Koa 的所有功能（部署到Custom运行时）
+本案例将ThinkJS，这一高效的Node.js 框架，快速创建并部署到阿里云函数计算 FC 。
 
 </description>
-
-
 
 
 ## 前期准备
@@ -42,11 +40,13 @@ ThinkJS 是一款面向未来开发的 Node.js 框架，整合了大量的项目
 
 <appcenter>
    
-- :fire: 通过 [云原生应用开发平台 CAP](https://devs.console.aliyun.com/applications/create?template=start-thinkjs-cap) ，
-  [![Deploy with Severless Devs](https://img.alicdn.com/imgextra/i1/O1CN01w5RFbX1v45s8TIXPz_!!6000000006118-55-tps-95-28.svg)](https://devs.console.aliyun.com/applications/create?template=start-thinkjs-cap) 该应用。
+- :fire: 通过 [云原生应用开发平台 CAP](https://devs.console.aliyun.com/applications/create?template=start-thinkjs-cap) ，[![Deploy with Severless Devs](https://img.alicdn.com/imgextra/i1/O1CN01w5RFbX1v45s8TIXPz_!!6000000006118-55-tps-95-28.svg)](https://devs.console.aliyun.com/applications/create?template=start-thinkjs-cap) 该应用。
    
 </appcenter>
-
+<deploy>
+    
+   
+</deploy>
 
 ## 案例介绍
 
@@ -86,4 +86,3 @@ ThinkJS 的另一个特点是其插件系统，开发者可以很容易地添加
 
 <matters id="flushContent">
 </matters>
-

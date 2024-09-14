@@ -5,11 +5,9 @@
 
 <description>
 
-HapiJS是一个开源的、基于Node.js的应用框架，它适用于构建应用程序和服务，其设计目标是让开发者把精力集中于开发可重用的应用程序的业务逻辑，向开发者提供构建应用程序业务逻辑所需的基础设施。
+本案例将 hapi.js ，这一功能齐全的 Node.js 框架，快速创建并部署到阿里云函数计算 FC 。
 
 </description>
-
-
 
 
 ## 前期准备
@@ -42,11 +40,13 @@ HapiJS是一个开源的、基于Node.js的应用框架，它适用于构建应�
 
 <appcenter>
    
-- :fire: 通过 [云原生应用开发平台 CAP](https://devs.console.aliyun.com/applications/create?template=start-hapi-cap) ，
-  [![Deploy with Severless Devs](https://img.alicdn.com/imgextra/i1/O1CN01w5RFbX1v45s8TIXPz_!!6000000006118-55-tps-95-28.svg)](https://devs.console.aliyun.com/applications/create?template=start-hapi-cap) 该应用。
+- :fire: 通过 [云原生应用开发平台 CAP](https://devs.console.aliyun.com/applications/create?template=start-hapi-cap) ，[![Deploy with Severless Devs](https://img.alicdn.com/imgextra/i1/O1CN01w5RFbX1v45s8TIXPz_!!6000000006118-55-tps-95-28.svg)](https://devs.console.aliyun.com/applications/create?template=start-hapi-cap) 该应用。
    
 </appcenter>
-
+<deploy>
+    
+   
+</deploy>
 
 ## 案例介绍
 
@@ -85,4 +85,3 @@ hapi.js 为开发者提供了一套工具来构建可扩展和健壮的服务器
 
 <matters id="flushContent">
 </matters>
-
