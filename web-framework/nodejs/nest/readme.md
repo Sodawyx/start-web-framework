@@ -5,11 +5,9 @@
 
 <description>
 
-Nest (NestJS) 是一个用于构建高效、可扩展的 Node.js 服务器端应用程序的开发框架。
+本案例 Nest.js ，这一灵活的 Node.js 框架，快速创建并部署到阿里云函数计算 FC 。
 
 </description>
-
-
 
 
 ## 前期准备
@@ -42,11 +40,13 @@ Nest (NestJS) 是一个用于构建高效、可扩展的 Node.js 服务器端应
 
 <appcenter>
    
-- :fire: 通过 [云原生应用开发平台 CAP](https://devs.console.aliyun.com/applications/create?template=start-nest-cap) ，
-  [![Deploy with Severless Devs](https://img.alicdn.com/imgextra/i1/O1CN01w5RFbX1v45s8TIXPz_!!6000000006118-55-tps-95-28.svg)](https://devs.console.aliyun.com/applications/create?template=start-nest-cap) 该应用。
+- :fire: 通过 [云原生应用开发平台 CAP](https://devs.console.aliyun.com/applications/create?template=start-nest-cap) ，[![Deploy with Severless Devs](https://img.alicdn.com/imgextra/i1/O1CN01w5RFbX1v45s8TIXPz_!!6000000006118-55-tps-95-28.svg)](https://devs.console.aliyun.com/applications/create?template=start-nest-cap) 该应用。
    
 </appcenter>
-
+<deploy>
+    
+   
+</deploy>
 
 ## 案例介绍
 
@@ -86,4 +86,3 @@ NestJS 的一个突出特点是它的模块化系统，允许将应用程序划�
 
 <matters id="flushContent">
 </matters>
-

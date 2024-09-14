@@ -5,11 +5,9 @@
 
 <description>
 
-nuxt.js简单的说是Vue.js的通用框架，最常用的就是用来作SSR（服务器端渲染）
+本案例将 Nuxt.js ，这一在前端开发者社区中非常流行的web框架，快速创建并部署到阿里云函数计算 FC 。
 
 </description>
-
-
 
 
 ## 前期准备
@@ -42,11 +40,13 @@ nuxt.js简单的说是Vue.js的通用框架，最常用的就是用来作SSR（�
 
 <appcenter>
    
-- :fire: 通过 [云原生应用开发平台 CAP](https://devs.console.aliyun.com/applications/create?template=start-nuxt-cap) ，
-  [![Deploy with Severless Devs](https://img.alicdn.com/imgextra/i1/O1CN01w5RFbX1v45s8TIXPz_!!6000000006118-55-tps-95-28.svg)](https://devs.console.aliyun.com/applications/create?template=start-nuxt-cap) 该应用。
+- :fire: 通过 [云原生应用开发平台 CAP](https://devs.console.aliyun.com/applications/create?template=start-nuxt-cap) ，[![Deploy with Severless Devs](https://img.alicdn.com/imgextra/i1/O1CN01w5RFbX1v45s8TIXPz_!!6000000006118-55-tps-95-28.svg)](https://devs.console.aliyun.com/applications/create?template=start-nuxt-cap) 该应用。
    
 </appcenter>
-
+<deploy>
+    
+   
+</deploy>
 
 ## 案例介绍
 

@@ -40,10 +40,13 @@
 
 <appcenter>
    
-- :fire: 通过 [云原生应用开发平台 CAP](https://devs.console.aliyun.com/applications/create?template=start-fastify-cap) ，
-  [![Deploy with Severless Devs](https://img.alicdn.com/imgextra/i1/O1CN01w5RFbX1v45s8TIXPz_!!6000000006118-55-tps-95-28.svg)](https://devs.console.aliyun.com/applications/create?template=start-fastify-cap) 该应用。
+- :fire: 通过 [云原生应用开发平台 CAP](https://devs.console.aliyun.com/applications/create?template=start-fastify-cap) ，[![Deploy with Severless Devs](https://img.alicdn.com/imgextra/i1/O1CN01w5RFbX1v45s8TIXPz_!!6000000006118-55-tps-95-28.svg)](https://devs.console.aliyun.com/applications/create?template=start-fastify-cap) 该应用。
    
 </appcenter>
+<deploy>
+    
+   
+</deploy>
 
 ## 案例介绍
 
@@ -61,10 +64,10 @@
 
 <usedetail id="flushContent">
 
-
 ### 二次开发
 
 您可以通过云端控制台的开发功能进行二次开发。如果您之前是在本地创建的项目案例，也可以在本地项目目录`start-fastify-cap`文件夹下，对项目进行二次开发。开发完成后，可以通过`s deploy`进行快速部署。
+
 
 </usedetail>
 
@@ -72,4 +75,3 @@
 
 <matters id="flushContent">
 </matters>
-

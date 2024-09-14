@@ -1,11 +1,11 @@
 
 > 注：当前项目为 Serverless Devs 应用，由于应用中会存在需要初始化才可运行的变量（例如应用部署地区、函数名等等），所以**不推荐**直接 Clone 本仓库到本地进行部署或直接复制 s.yaml 使用，**强烈推荐**通过 `s init ${模版名称}` 的方法或应用中心进行初始化，详情可参考[部署 & 体验](#部署--体验) 。
 
-# nginx-reverse-proxy 帮助文档
+# nginx-reverse-proxy-cap 帮助文档
 
 <description>
 
-本案例快速部署一个 Nginx 反向代理项目到阿里云函数计算 FC。
+本案例快速部署一个 Nginx 项目到阿里云函数计算 FC。
 
 </description>
 
@@ -40,11 +40,13 @@
 
 <appcenter>
    
-- :fire: 通过 [云原生应用开发平台 CAP](https://devs.console.aliyun.com/applications/create?template=nginx-reverse-proxy) ，
-  [![Deploy with Severless Devs](https://img.alicdn.com/imgextra/i1/O1CN01w5RFbX1v45s8TIXPz_!!6000000006118-55-tps-95-28.svg)](https://devs.console.aliyun.com/applications/create?template=nginx-reverse-proxy) 该应用。
+- :fire: 通过 [云原生应用开发平台 CAP](https://devs.console.aliyun.com/applications/create?template=nginx-reverse-proxy-cap) ，[![Deploy with Severless Devs](https://img.alicdn.com/imgextra/i1/O1CN01w5RFbX1v45s8TIXPz_!!6000000006118-55-tps-95-28.svg)](https://devs.console.aliyun.com/applications/create?template=nginx-reverse-proxy-cap) 该应用。
    
 </appcenter>
-
+<deploy>
+    
+   
+</deploy>
 
 ## 案例介绍
 
@@ -78,4 +80,3 @@ Nginx 是一个高性能的HTTP和反向代理服务器，也是一个IMAP/POP3/
 
 <matters id="flushContent">
 </matters>
-
