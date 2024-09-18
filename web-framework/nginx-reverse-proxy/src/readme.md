@@ -5,7 +5,7 @@
 
 <description>
 
-本案例快速部署一个 Nginx 项目到阿里云函数计算 FC。
+本案例展示了如何将 Nginx —— 一款高性能的 Web 服务器和反向代理服务器，部署至云原生应用开发平台 CAP，实现快速构建云原生应用的实践。Nginx 以其高性能、稳定性、丰富的功能和易用性著称，广泛应用于 Web 服务器、反向代理、CDN、API 网关和实时通信等多个领域。
 
 </description>
 
@@ -21,6 +21,7 @@
 | 服务/业务 |  权限  | 相关文档 |
 | --- |  --- | --- |
 | 函数计算 |  AliyunFCFullAccess | [帮助文档](https://help.aliyun.com/product/2508973.html) [计费文档](https://help.aliyun.com/document_detail/2512928.html) |
+| 日志服务 |  AliyunFCServerlessDevsRolePolicy | [帮助文档](https://help.aliyun.com/zh/sls) [计费文档](https://help.aliyun.com/zh/sls/product-overview/billing) |
 
 </service>
 
@@ -52,7 +53,7 @@
 
 <appdetail id="flushContent">
 
-本案例快速部署一个 Nginx 项目到阿里云函数计算 FC。
+本案例快速部署一个 Nginx 项目到云原生应用开发平台 CAP。
 
 Nginx的流行程度非常高，是全球范围内广泛使用的Web服务器和反向代理服务器。它的高性能、稳定性、丰富的功能、易用性，使得它在Web开发领域得到了广泛的应用，无论是大型网站还是小型应用，都可以看到Nginx的身影。此外，Nginx还在CDN、API网关、实时通信等领域发挥着重要作用。
 

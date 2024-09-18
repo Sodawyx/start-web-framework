@@ -5,7 +5,7 @@
 
 <description>
 
-本案例将 tornado ，这一优秀的python Web框架，快速搭建并部署到阿里云函数计算 FC 。
+本案例展示了如何将 Tornado —— 一款优秀的 Python Web 框架，快速搭建并部署到云原生应用开发平台 CAP，实现快速构建云原生应用的实践。Tornado 以其优异的性能和灵活的设计著称，广泛应用于构建高性能的 Web 应用程序、实时 Web 服务、长连接的实时通信以及网络爬虫等领域。
 
 </description>
 
@@ -21,6 +21,7 @@
 | 服务/业务 |  权限  | 相关文档 |
 | --- |  --- | --- |
 | 函数计算 |  AliyunFCFullAccess | [帮助文档](https://help.aliyun.com/product/2508973.html) [计费文档](https://help.aliyun.com/document_detail/2512928.html) |
+| 日志服务 |  AliyunFCServerlessDevsRolePolicy | [帮助文档](https://help.aliyun.com/zh/sls) [计费文档](https://help.aliyun.com/zh/sls/product-overview/billing) |
 
 </service>
 
@@ -52,7 +53,7 @@
 
 <appdetail id="flushContent">
 
-本案例将 tornado ，这一优秀的python Web框架，快速搭建并部署到阿里云函数计算 FC 。
+本案例将 tornado ，这一优秀的python Web框架，快速搭建并部署到云原生应用开发平台 CAP。
 
 Tornado是一个Python Web框架和异步网络库，最初是在FriendFeed开发的。它以其优异的性能和灵活的设计而著称，被广泛应用于构建高性能的Web应用程序、实时Web服务、长连接的实时通信以及网络爬虫等领域。
 

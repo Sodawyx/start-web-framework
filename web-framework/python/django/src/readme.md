@@ -5,7 +5,7 @@
 
 <description>
 
-本案例是将 Python Web 框架中，非常受欢迎的 Django 框架，快速创建并部署到阿里云函数计算 FC。
+本案例展示了如何将 Django —— 一款非常受欢迎的 Python Web 框架，快速创建并部署到云原生应用开发平台 CAP，实现快速构建云原生应用的实践。Django 以其强大的功能、易用性、完善的生态系统和长期的社区支持著称，广泛应用于 Web 应用开发、API 服务、数据分析平台以及后台管理系统等多种场景。
 
 </description>
 
@@ -21,6 +21,7 @@
 | 服务/业务 |  权限  | 相关文档 |
 | --- |  --- | --- |
 | 函数计算 |  AliyunFCFullAccess | [帮助文档](https://help.aliyun.com/product/2508973.html) [计费文档](https://help.aliyun.com/document_detail/2512928.html) |
+| 日志服务 |  AliyunFCServerlessDevsRolePolicy | [帮助文档](https://help.aliyun.com/zh/sls) [计费文档](https://help.aliyun.com/zh/sls/product-overview/billing) |
 
 </service>
 
@@ -52,7 +53,7 @@
 
 <appdetail id="flushContent">
 
-本案例是将 Python Web 框架中，非常受欢迎的 Django 框架，快速创建并部署到阿里云函数计算 FC。
+本案例是将 Python Web 框架中，非常受欢迎的 Django 框架，快速创建并部署到云原生应用开发平台 CAP。
 
 Django是一个开放源代码的Web应用框架，由Python写成。采用了MTV的框架模式，即模型M，视图V和模版T。它最初是被开发来用于管理劳伦斯出版集团旗下的一些以新闻内容为主的网站的，即是CMS（内容管理系统）软件。并于2005年7月在BSD许可证下发布。这套框架是以比利时的吉普赛爵士吉他手Django Reinhardt来命名的。
 

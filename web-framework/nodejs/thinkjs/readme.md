@@ -5,7 +5,7 @@
 
 <description>
 
-本案例将ThinkJS，这一高效的Node.js 框架，快速创建并部署到阿里云函数计算 FC 。
+本案例展示了如何将 ThinkJS，一款高效的 Node.js 框架，快速创建并部署到阿里云函数计算 FC。ThinkJS 采用了全新的 ES6/7 语法，提供了更优雅的异步代码编写方式，显著提高了开发效率。
 
 </description>
 
@@ -21,6 +21,7 @@
 | 服务/业务 |  权限  | 相关文档 |
 | --- |  --- | --- |
 | 函数计算 |  AliyunFCFullAccess | [帮助文档](https://help.aliyun.com/product/2508973.html) [计费文档](https://help.aliyun.com/document_detail/2512928.html) |
+| 日志服务 |  AliyunFCServerlessDevsRolePolicy | [帮助文档](https://help.aliyun.com/zh/sls) [计费文档](https://help.aliyun.com/zh/sls/product-overview/billing) |
 
 </service>
 
@@ -52,7 +53,7 @@
 
 <appdetail id="flushContent">
 
-本案例将ThinkJS，这一高效的Node.js 框架，快速创建并部署到阿里云函数计算 FC 。
+本案例将ThinkJS，这一高效的Node.js 框架，快速创建并部署到云原生应用开发平台 CAP。
 
 ThinkJS 是一个高效的 Node.js 框架，专为企业级用户和快速开发的现代网络应用程序设计。它采用了全新的 ES6/7 语法，支持 async/await 避免了回调地狱，提供了更优雅的异步代码编写方式。它的 MVC 模式让应用逻辑清晰分层，同时它的自动化工具和组件化支持显著提高了开发效率。
 

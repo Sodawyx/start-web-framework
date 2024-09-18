@@ -5,7 +5,7 @@
 
 <description>
 
-本案例将 Koa.js ，这一现代化的Node.js web框架，快速创建并部署到阿里云函数计算 FC 。
+本案例展示了如何将 Koa.js —— 一款现代化的 Node.js Web 框架，快速创建并部署到云原生应用开发平台 CAP，实现快速构建云原生应用的实践。Koa.js 通过利用 async 函数，提供了一种更有效的方式来处理和响应 HTTP 请求，其精简的中间件层和流式执行模式使得代码编写更加高效和可维护。
 
 </description>
 
@@ -21,6 +21,7 @@
 | 服务/业务 |  权限  | 相关文档 |
 | --- |  --- | --- |
 | 函数计算 |  AliyunFCFullAccess | [帮助文档](https://help.aliyun.com/product/2508973.html) [计费文档](https://help.aliyun.com/document_detail/2512928.html) |
+| 日志服务 |  AliyunFCServerlessDevsRolePolicy | [帮助文档](https://help.aliyun.com/zh/sls) [计费文档](https://help.aliyun.com/zh/sls/product-overview/billing) |
 
 </service>
 
@@ -52,7 +53,7 @@
 
 <appdetail id="flushContent">
 
-本案例将 Koa.js ，这一现代化的Node.js web框架，快速创建并部署到阿里云函数计算 FC 。
+本案例将 Koa.js ，这一现代化的Node.js web框架，快速创建并部署到云原生应用开发平台 CAP。
 
 Koa.js 是一个现代化的Node.js web框架，通过利用 async 函数，它提供了一种更有效的方式来处理和响应HTTP请求。与传统的Node.js中间件模式不同，Koa 试图最小化中间件栈中的冗余和不必要的控制流，这为开发者提供了编写高效和可维护代码的更大灵活性。
 

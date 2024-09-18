@@ -5,7 +5,7 @@
 
 <description>
 
-本案例 Nest.js ，这一灵活的 Node.js 框架，快速创建并部署到阿里云函数计算 FC 。
+本案例展示了如何将 Nest.js —— 一款灵活的 Node.js 框架，快速创建并部署到云原生应用开发平台 CAP，实现快速构建云原生应用的实践。Nest.js 使用 TypeScript 作为主要语言，提供了严格的类型检查，采用模块化和面向切面编程的概念，使得代码组织结构清晰且易于测试。
 
 </description>
 
@@ -21,6 +21,7 @@
 | 服务/业务 |  权限  | 相关文档 |
 | --- |  --- | --- |
 | 函数计算 |  AliyunFCFullAccess | [帮助文档](https://help.aliyun.com/product/2508973.html) [计费文档](https://help.aliyun.com/document_detail/2512928.html) |
+| 日志服务 |  AliyunFCServerlessDevsRolePolicy | [帮助文档](https://help.aliyun.com/zh/sls) [计费文档](https://help.aliyun.com/zh/sls/product-overview/billing) |
 
 </service>
 
@@ -52,7 +53,7 @@
 
 <appdetail id="flushContent">
 
-本案例 Nest.js ，这一灵活的 Node.js 框架，快速创建并部署到阿里云函数计算 FC 。
+本案例 Nest.js ，这一灵活的 Node.js 框架，快速创建并部署到云原生应用开发平台 CAP。
 
 NestJS 旨在为开发者提供构建高效、可维护和可扩展Web应用程序的工具。使用 TypeScript 作为主要语言，NestJS 提供了严格的类型检查，极大地提高了代码的质量和可维护性。它的架构灵感来源于 Angular，采用了模块化和面向切面编程的概念，从而使得代码组织结构清晰，且易于测试。
 

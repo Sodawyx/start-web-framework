@@ -5,7 +5,7 @@
 
 <description>
 
-本案例将 Web.py ，这一简单而功能强大的 Python Web 框架，快速创建部署到阿里云函数计算 FC 。
+本案例展示了如何将 Web.py —— 一款简单而功能强大的 Python Web 框架，快速创建并部署到云原生应用开发平台 CAP，实现快速构建云原生应用的实践。Web.py 以其轻量级、强大的 URL 路由系统、内置模板引擎和灵活的数据库集成能力著称，广泛应用于构建 Web 应用程序和 RESTful API。
 
 </description>
 
@@ -21,6 +21,7 @@
 | 服务/业务 |  权限  | 相关文档 |
 | --- |  --- | --- |
 | 函数计算 |  AliyunFCFullAccess | [帮助文档](https://help.aliyun.com/product/2508973.html) [计费文档](https://help.aliyun.com/document_detail/2512928.html) |
+| 日志服务 |  AliyunFCServerlessDevsRolePolicy | [帮助文档](https://help.aliyun.com/zh/sls) [计费文档](https://help.aliyun.com/zh/sls/product-overview/billing) |
 
 </service>
 
@@ -52,7 +53,7 @@
 
 <appdetail id="flushContent">
 
-本案例将 Web.py ，这一简单而功能强大的 Python Web 框架，快速创建部署到阿里云函数计算 FC 。
+本案例将 Web.py ，这一简单而功能强大的 Python Web 框架，快速创建部署到云原生应用开发平台 CAP 。
 
 web.py是一个轻量级的Python Web框架，并且拥有许多主要功能和特点。首先，它支持简单而强大的URL路由系统，允许开发者将URL映射到视图函数，以处理不同的HTTP请求。其次，开发者可以编写视图函数来处理HTTP请求，并返回相应的HTTP响应，从而构建Web应用程序的功能。
 

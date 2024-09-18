@@ -5,7 +5,7 @@
 
 <description>
 
-本案例是将 Fastify 框架，这一基于 Node.js 平台的极简且灵活的 web 应用开发框架，快速创建并部署到阿里云函数计算 FC 。
+本案例展示了如何将 Fastify —— 一款基于 Node.js 平台的极简且灵活的 Web 应用开发框架，快速创建并部署到云原生应用开发平台 CAP，实现快速构建云原生应用的实践。Fastify 以其高效的性能、最少的开销和强大的插件结构著称，是速度最快的 Web 框架之一。
 
 </description>
 
@@ -21,6 +21,7 @@
 | 服务/业务 |  权限  | 相关文档 |
 | --- |  --- | --- |
 | 函数计算 |  AliyunFCFullAccess | [帮助文档](https://help.aliyun.com/product/2508973.html) [计费文档](https://help.aliyun.com/document_detail/2512928.html) |
+| 日志服务 |  AliyunFCServerlessDevsRolePolicy | [帮助文档](https://help.aliyun.com/zh/sls) [计费文档](https://help.aliyun.com/zh/sls/product-overview/billing) |
 
 </service>
 
@@ -52,7 +53,7 @@
 
 <appdetail id="flushContent">
 
-本案例是将 Fastify 框架，这一基于 Node.js 平台的极简且灵活的 web 应用开发框架，快速创建并部署到阿里云函数计算 FC 。
+本案例是将 Fastify 框架，这一基于 Node.js 平台的极简且灵活的 web 应用开发框架，快速创建并部署到云原生应用开发平台 CAP。
 
 高效的服务器意味着更低的基础设施成本、更好的负载响应能力和用户满意度。 在不牺牲安全验证和便捷开发的前提下，如何知道服务器正在处理尽可能多的请求，又如何有效地处理服务器资源？
 
@@ -67,7 +68,6 @@
 ### 二次开发
 
 您可以通过云端控制台的开发功能进行二次开发。如果您之前是在本地创建的项目案例，也可以在本地项目目录`start-fastify-cap`文件夹下，对项目进行二次开发。开发完成后，可以通过`s deploy`进行快速部署。
-
 
 </usedetail>
 

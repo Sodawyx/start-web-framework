@@ -5,7 +5,7 @@
 
 <description>
 
-本案例将 ThinkPHP 框架，这一款非常流行的web应用开发框架，快速创建部署到阿里云函数计算 FC 。
+本案例展示了如何将 ThinkPHP —— 一款非常流行的 PHP Web 应用开发框架，快速创建并部署到云原生应用开发平台 CAP，实现快速构建云原生应用的实践。ThinkPHP 以其出色的性能、易用性、丰富的功能和强大的社区支持著称，广泛应用于各种规模的项目开发，特别是在中大型项目中表现出色。
 
 </description>
 
@@ -21,6 +21,7 @@
 | 服务/业务 |  权限  | 相关文档 |
 | --- |  --- | --- |
 | 函数计算 |  AliyunFCFullAccess | [帮助文档](https://help.aliyun.com/product/2508973.html) [计费文档](https://help.aliyun.com/document_detail/2512928.html) |
+| 日志服务 |  AliyunFCServerlessDevsRolePolicy | [帮助文档](https://help.aliyun.com/zh/sls) [计费文档](https://help.aliyun.com/zh/sls/product-overview/billing) |
 
 </service>
 
@@ -52,7 +53,7 @@
 
 <appdetail id="flushContent">
 
-本案例将 ThinkPHP 框架，这一款非常流行的web应用开发框架，快速创建部署到阿里云函数计算 FC 。
+本案例将 ThinkPHP 框架，这一款非常流行的web应用开发框架，快速创建部署到云原生应用开发平台 CAP。
 
 ThinkPHP是一个使用纯PHP开发，面向对象和面向过程的优秀安全敏捷的web应用框架，旨在简化企业级应用开发和敏捷web应用开发。它遵循MVC分层开发模式和单一入口等简洁规范的思想，并且内置了大量的开发模块和常用功能，以便开发者能够快速构建web应用程序。
 

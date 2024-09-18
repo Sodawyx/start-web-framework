@@ -5,7 +5,7 @@
 
 <description>
 
-本案例将Egg.js，这一被开发者广泛使用的企业级 Node.js 框架，快速创建并部署到阿里云函数计算 FC 。
+本案例展示了如何将 Egg.js —— 一款被开发者广泛使用的企业级 Node.js 框架，快速创建并部署到云原生应用开发平台 CAP，实现快速构建云原生应用的实践。Egg.js 以其约定优于配置的设计哲学、高度扩展性和完善的文档著称，广泛应用于构建 RESTful API、Web 应用服务器、微服务架构以及处理各种网络协议的后端服务。
 
 </description>
 
@@ -21,6 +21,7 @@
 | 服务/业务 |  权限  | 相关文档 |
 | --- |  --- | --- |
 | 函数计算 |  AliyunFCFullAccess | [帮助文档](https://help.aliyun.com/product/2508973.html) [计费文档](https://help.aliyun.com/document_detail/2512928.html) |
+| 日志服务 |  AliyunFCServerlessDevsRolePolicy | [帮助文档](https://help.aliyun.com/zh/sls) [计费文档](https://help.aliyun.com/zh/sls/product-overview/billing) |
 
 </service>
 
@@ -52,7 +53,7 @@
 
 <appdetail id="flushContent">
 
-本案例将Egg.js，这一被开发者广泛使用的企业级 Node.js 框架，快速创建并部署到阿里云函数计算 FC 。
+本案例将Egg.js，这一被开发者广泛使用的企业级 Node.js 框架，快速创建并部署到云原生应用开发平台 CAP。
 
 Egg.js 的设计哲学强调约定优于配置，以及一致的开发规范，从而使得团队协作变得更加顺畅。它的插件体系和完善的文档允许开发者快速构建 RESTful API、Web 应用服务器、微服务架构，以及处理各种网络协议的后端服务。Egg.js 的高度扩展性还意味着它可以与现代前端技术栈无缝集成，比如 React、Vue、Angular 等。
 
