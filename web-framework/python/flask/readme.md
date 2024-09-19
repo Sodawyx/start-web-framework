@@ -5,7 +5,7 @@
 
 <description>
 
-本案例将Flask框架，这一非常受欢迎的Python Web框架，快捷创建并部署到阿里云函数计算 FC。
+本案例展示了如何将 Flask —— 一款非常受欢迎的 Python Web 框架，快捷创建并部署到云原生应用开发平台 CAP，实现快速构建云原生应用的实践。Flask 以其轻量级、简洁性和易用性著称，特别适用于小型、简单的 Web 应用或 API 开发。
 
 </description>
 
@@ -21,6 +21,7 @@
 | 服务/业务 |  权限  | 相关文档 |
 | --- |  --- | --- |
 | 函数计算 |  AliyunFCFullAccess | [帮助文档](https://help.aliyun.com/product/2508973.html) [计费文档](https://help.aliyun.com/document_detail/2512928.html) |
+| 日志服务 |  AliyunFCServerlessDevsRolePolicy | [帮助文档](https://help.aliyun.com/zh/sls) [计费文档](https://help.aliyun.com/zh/sls/product-overview/billing) |
 
 </service>
 
@@ -52,7 +53,7 @@
 
 <appdetail id="flushContent">
 
-本案例将Flask框架，这一非常受欢迎的Python Web框架，快捷创建并部署到阿里云函数计算 FC。
+本案例将Flask框架，这一非常受欢迎的Python Web框架，快捷创建并部署到云原生应用开发平台 CAP。
 
 Flask是一个使用 Python 编写的轻量级 Web 应用框架。其 WSGI 工具箱采用 Werkzeug ，模板引擎则使用 Jinja2 。Flask使用 BSD 授权。
 
@@ -72,7 +73,6 @@ Flask是一个使用 Python 编写的轻量级 Web 应用框架。其 WSGI 工�
 本案例应用是一个非常简单的 Hello World 案例，部署完成之后，您可以看到系统返回给您的案例地址, 打开案例地址，就可以进入基于 flask 设置的首页：
 
 ![图片alt](https://img.alicdn.com/imgextra/i1/O1CN01wlEjIY1MWwVhTwOwC_!!6000000001443-0-tps-1308-422.jpg)
-
 
 </usedetail>
 

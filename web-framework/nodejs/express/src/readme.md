@@ -5,7 +5,7 @@
 
 <description>
 
-本案例是将 Express 框架，这一基于 Node.js 平台的极简且灵活的 web 应用开发框架，快速创建并部署到阿里云函数计算 FC 。
+本案例展示了如何将 Express —— 一款基于 Node.js 平台的极简且灵活的 Web 应用开发框架，快速创建并部署到云原生应用开发平台 CAP，实现快速构建云原生应用的实践。Express 框架以其强大的特性、路由管理、中间件支持和模板引擎著称，广泛应用于 Web 和移动应用开发。
 
 </description>
 
@@ -21,6 +21,7 @@
 | 服务/业务 |  权限  | 相关文档 |
 | --- |  --- | --- |
 | 函数计算 |  AliyunFCFullAccess | [帮助文档](https://help.aliyun.com/product/2508973.html) [计费文档](https://help.aliyun.com/document_detail/2512928.html) |
+| 日志服务 |  AliyunFCServerlessDevsRolePolicy | [帮助文档](https://help.aliyun.com/zh/sls) [计费文档](https://help.aliyun.com/zh/sls/product-overview/billing) |
 
 </service>
 
@@ -52,7 +53,7 @@
 
 <appdetail id="flushContent">
 
-本案例是将 Express 框架，这一基于 Node.js 平台的极简且灵活的 web 应用开发框架，快速创建并部署到阿里云函数计算 FC 。
+本案例是将 Express 框架，这一基于 Node.js 平台的极简且灵活的 web 应用开发框架，快速创建并部署到云原生应用开发平台 CAP。
 
 Express 提供了一系列强大的特性用于开发 web 和移动应用。Express 框架遵循了 MVC（模型-视图-控制器）架构模式，使得开发过程更加清晰和易于管理。
 

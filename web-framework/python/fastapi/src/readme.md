@@ -5,7 +5,7 @@
 
 <description>
 
-本案例是将 fastapi 框架，这一快速且高效的Web框架，快速创建部署到阿里云函数计算 FC 。
+本案例展示了如何将 FastAPI —— 一款快速且高效的 Web 框架，快速创建并部署到云原生应用开发平台 CAP，实现快速构建云原生应用的实践。FastAPI 以其出色性能、自动文档生成、数据验证和转换、类型注解支持等特点著称，广泛应用于 RESTful API、微服务架构、数据处理 API 以及实时通信等多种场景。
 
 </description>
 
@@ -21,6 +21,7 @@
 | 服务/业务 |  权限  | 相关文档 |
 | --- |  --- | --- |
 | 函数计算 |  AliyunFCFullAccess | [帮助文档](https://help.aliyun.com/product/2508973.html) [计费文档](https://help.aliyun.com/document_detail/2512928.html) |
+| 日志服务 |  AliyunFCServerlessDevsRolePolicy | [帮助文档](https://help.aliyun.com/zh/sls) [计费文档](https://help.aliyun.com/zh/sls/product-overview/billing) |
 
 </service>
 
@@ -52,7 +53,7 @@
 
 <appdetail id="flushContent">
 
-本案例是将 fastapi 框架，这一快速且高效的Web框架，快速创建部署到阿里云函数计算 FC 。
+本案例是将 fastapi 框架，这一快速且高效的Web框架，快速创建部署到云原生应用开发平台 CAP。
 
 FastAPI是一个现代、快速且高效的Web框架，用于构建基于Python的API。它建立在Starlette和Pydantic之上，并利用了Python的异步生态系统，提供了出色的性能和吞吐量。FastAPI的主要特点包括：快速高效、自动文档生成、数据验证和转换、类型注解支持。
 

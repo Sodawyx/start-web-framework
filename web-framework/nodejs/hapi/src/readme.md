@@ -5,7 +5,7 @@
 
 <description>
 
-本案例将 hapi.js ，这一功能齐全的 Node.js 框架，快速创建并部署到阿里云函数计算 FC 。
+本案例展示了如何将 hapi.js —— 一款功能齐全的 Node.js 框架，快速创建并部署到云原生应用开发平台 CAP，实现快速构建云原生应用的实践。hapi.js 以其内置的输入验证、缓存、身份验证、错误处理和强大的插件系统著称，广泛应用于构建可扩展和健壮的服务器端应用程序和服务。
 
 </description>
 
@@ -21,6 +21,7 @@
 | 服务/业务 |  权限  | 相关文档 |
 | --- |  --- | --- |
 | 函数计算 |  AliyunFCFullAccess | [帮助文档](https://help.aliyun.com/product/2508973.html) [计费文档](https://help.aliyun.com/document_detail/2512928.html) |
+| 日志服务 |  AliyunFCServerlessDevsRolePolicy | [帮助文档](https://help.aliyun.com/zh/sls) [计费文档](https://help.aliyun.com/zh/sls/product-overview/billing) |
 
 </service>
 
@@ -52,7 +53,7 @@
 
 <appdetail id="flushContent">
 
-本案例将 hapi.js ，这一功能齐全的 Node.js 框架，快速创建并部署到阿里云函数计算 FC 。
+本案例将 hapi.js ，这一功能齐全的 Node.js 框架，快速创建并部署到云原生应用开发平台 CAP。
 
 hapi.js 为开发者提供了一套工具来构建可扩展和健壮的服务器端应用程序和服务。hapi的核心特点包括内置的输入验证、缓存、身份验证、错误处理和更多。它以插件系统为基础，允许开发者通过模块化的方式扩展应用功能，同时保持代码的组织性和可测试性。
 

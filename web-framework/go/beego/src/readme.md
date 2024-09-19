@@ -5,7 +5,7 @@
 
 <description>
 
-本案例是将 Beego ，这一快速开发Go应用的 web 框架，快速搭建部署到阿里云函数计算 FC 。
+本案例展示了如何将 Beego —— 一款高效的Go语言Web框架，无缝部署至云原生应用开发平台，实现快速构建云原生应用的实践。Beego以其对Go特性的深度整合、简洁的MVC设计模式以及高性能著称，广泛应用于各类Web开发场景中。
 
 </description>
 
@@ -53,7 +53,7 @@
 
 <appdetail id="flushContent">
 
-本案例是将 Beego ，这一快速开发Go应用的 web 框架，快速搭建部署到阿里云函数计算 FC 。
+本案例是将 Beego ，这一快速开发Go应用的 web 框架，快速搭建部署到云原生应用开发平台 CAP。
 
 Beego是一个快速开发Go应用的http框架，它旨在简化Web应用、API以及后端服务的开发过程。这个框架的主要设计灵感来源于tornado、sinatra和flask，同时结合了Go语言本身的一些特性，如interface和struct继承等。
 

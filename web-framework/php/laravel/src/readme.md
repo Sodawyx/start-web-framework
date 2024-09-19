@@ -5,7 +5,7 @@
 
 <description>
 
-本案例是将非常流行的基于PHP编程语言的开发框架 Laravel 快速部署到阿里云函数计算 FC。
+本案例展示了如何将 Laravel —— 一款基于 PHP 编程语言的流行 Web 应用框架，快速部署到云原生应用开发平台 CAP，实现快速构建云原生应用的实践。Laravel 以其简洁优雅的语法、全面而先进的工具和功能著称，广泛应用于 Web 应用程序开发。Laravel 提供了丰富的功能，包括面向对象的代码结构、强大的路由和请求处理能力等。
 
 </description>
 
@@ -21,6 +21,7 @@
 | 服务/业务 |  权限  | 相关文档 |
 | --- |  --- | --- |
 | 函数计算 |  AliyunFCFullAccess | [帮助文档](https://help.aliyun.com/product/2508973.html) [计费文档](https://help.aliyun.com/document_detail/2512928.html) |
+| 日志服务 |  AliyunFCServerlessDevsRolePolicy | [帮助文档](https://help.aliyun.com/zh/sls) [计费文档](https://help.aliyun.com/zh/sls/product-overview/billing) |
 
 </service>
 
@@ -52,7 +53,7 @@
 
 <appdetail id="flushContent">
 
-本案例是将非常流行的基于PHP编程语言的开发框架 Laravel 快速部署到阿里云函数计算 FC。
+本案例是将非常流行的基于PHP编程语言的开发框架 Laravel 快速部署到云原生应用开发平台 CAP。
 
 Laravel框架是一种基于PHP编程语言开发的开源web应用框架。该框架自2011年由Taylor Otwell创建以来，已经发展成为PHP社区中最知名的框架之一，并由一支大约50名核心成员维护和发展。Laravel框架采用了Model-View-Controller（MVC）软件设计模式，使得在构建web应用程序方面非常强大和灵活。具有富有表现力、优雅的语法，提供了一套全面而先进的工具和功能，旨在简化和加速开发过程。这些工具和功能包括面向对象的代码结构、强大的路由和请求处理能力等。
 

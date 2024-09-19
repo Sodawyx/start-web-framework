@@ -5,7 +5,7 @@
 
 <description>
 
-本案例是基于Pivotal团队提供的全新的Spring Boot框架，简化Spring应用的初始化搭建过程，并且快速部署到阿里云函数计算FC。
+本案例展示了如何将 Spring Boot —— 一款高效的 Java Web 框架，无缝部署至云原生应用开发平台，实现快速构建云原生应用的实践。Spring Boot 以其“习惯优于配置”的理念、快速开发能力和微服务架构支持著称，广泛应用于 Web 应用程序开发、微服务架构、批处理和数据处理等多种场景中。
 
 </description>
 
@@ -21,6 +21,7 @@
 | 服务/业务 |  权限  | 相关文档 |
 | --- |  --- | --- |
 | 函数计算 |  AliyunFCFullAccess | [帮助文档](https://help.aliyun.com/product/2508973.html) [计费文档](https://help.aliyun.com/document_detail/2512928.html) |
+| 日志服务 |  AliyunFCServerlessDevsRolePolicy | [帮助文档](https://help.aliyun.com/zh/sls) [计费文档](https://help.aliyun.com/zh/sls/product-overview/billing) |
 
 </service>
 
@@ -52,7 +53,7 @@
 
 <appdetail id="flushContent">
 
-本案例是基于 Pivotal 团队提供的全新的 Spring Boot 框架，简化 Spring 应用的初始化搭建过程，并且快速部署到阿里云函数计算FC。
+本案例是基于 Pivotal 团队提供的全新的 Spring Boot 框架，简化 Spring 应用的初始化搭建过程，并且快速部署到云原生应用开发平台 CAP。
 
 Spring Boot 是一个快速开发 Spring 框架应用的脚手架，它使用“习惯优于配置”（约定优于配置）的理念让你的项目快速运行起来。Spring Boot 并不是对 Spring 功能上的增强，而是提供了一种快速使用 Spring 的方式。
 
@@ -75,7 +76,6 @@ Spring Boot适用的场景也非常广泛，如：Web应用程序开发、微服
 此时，打开案例地址，就可以进入，如下图：
 
 ![图片alt](https://img.alicdn.com/imgextra/i1/O1CN01rGURy61QCZLqBFEal_!!6000000001940-0-tps-1380-410.jpg)
-
 
 </usedetail>
 

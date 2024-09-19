@@ -5,7 +5,7 @@
 
 <description>
 
-本案例将 Nuxt.js ，这一在前端开发者社区中非常流行的web框架，快速创建并部署到阿里云函数计算 FC 。
+本案例展示了如何将 Nuxt.js，一款在前端开发者社区中非常流行的 Vue.js 框架，快速创建并部署到云原生应用开发平台 CAP。Nuxt.js 通过提供自动化的流程和强大的默认设置，使得构建快速和优化的 Web 应用程序变得简单。
 
 </description>
 
@@ -21,6 +21,7 @@
 | 服务/业务 |  权限  | 相关文档 |
 | --- |  --- | --- |
 | 函数计算 |  AliyunFCFullAccess | [帮助文档](https://help.aliyun.com/product/2508973.html) [计费文档](https://help.aliyun.com/document_detail/2512928.html) |
+| 日志服务 |  AliyunFCServerlessDevsRolePolicy | [帮助文档](https://help.aliyun.com/zh/sls) [计费文档](https://help.aliyun.com/zh/sls/product-overview/billing) |
 
 </service>
 
@@ -52,7 +53,7 @@
 
 <appdetail id="flushContent">
 
-本案例将 Nuxt.js ，这一在前端开发者社区中非常流行的web框架，快速创建并部署到阿里云函数计算 FC 。
+本案例将 Nuxt.js ，这一在前端开发者社区中非常流行的web框架，快速创建并部署到云原生应用开发平台 CAP。
 
 Nuxt.js 是一个为 Vue.js 生态圈带来的创新框架，它通过提供自动化的流程和强大的默认设置，使得构建快速和优化的 web 应用程序成为一种简单的体验。Nuxt.js 的核心特性包括通过文件系统自动生成路由、服务器端渲染支持以提升SEO友好度和首屏加载性能、以及自动的代码分割以实现更快的页面加载时间。
 

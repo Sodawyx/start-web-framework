@@ -5,7 +5,7 @@
 
 <description>
 
-本案例是将 Gin ，这一非常受欢迎的 web 框架，快速创建并部署到阿里云函数计算 FC 。
+本案例展示了如何将 Gin —— Go 语言社区中倍受追捧的轻量级 Web 框架，迅速构建并部署至云原生应用开发平台（CAP）上。Gin 凭借其高效的处理能力、极简设计及高度灵活性，赢得了众多 Go 开发者的芳心，成为快速开发高质量 Web 应用和服务的首选武器。
 
 </description>
 
@@ -21,6 +21,7 @@
 | 服务/业务 |  权限  | 相关文档 |
 | --- |  --- | --- |
 | 函数计算 |  AliyunFCFullAccess | [帮助文档](https://help.aliyun.com/product/2508973.html) [计费文档](https://help.aliyun.com/document_detail/2512928.html) |
+| 日志服务 |  AliyunFCServerlessDevsRolePolicy | [帮助文档](https://help.aliyun.com/zh/sls) [计费文档](https://help.aliyun.com/zh/sls/product-overview/billing) |
 
 </service>
 
@@ -52,7 +53,7 @@
 
 <appdetail id="flushContent">
 
-本案例是将 Gin ，这一非常受欢迎的 web 框架，快速创建并部署到阿里云函数计算 FC 。
+本案例是将 Gin ，这一非常受欢迎的 web 框架，快速创建并部署到云原生应用开发平台 CAP 。
 
 Gin在Go语言的Web开发社区中非常受欢迎，并且拥有大量的用户和贡献者。它的简洁性、性能和灵活性使得它成为许多Go语言开发者的首选框架。Gin在GitHub等代码托管平台上的star数和fork数都很高，这表明了它的广泛使用和影响力。
 

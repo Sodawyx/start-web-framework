@@ -5,7 +5,7 @@
 
 <description>
 
-本案例将 Excalidraw ，这一功能强大、易于使用的绘图工具，快速创建并部署到阿里云函数计算 FC 。
+本案例展示了如何将 Excalidraw —— 一款功能强大、易于使用的绘图工具，快速创建并部署到云原生应用开发平台 CAP，实现快速构建云原生应用的实践。Excalidraw 以其简单直观的在线界面、手绘风格的图表和草图创作功能著称，广泛应用于在线会议、教育、软件设计等多种场景。
 
 </description>
 
@@ -21,6 +21,7 @@
 | 服务/业务 |  权限  | 相关文档 |
 | --- |  --- | --- |
 | 函数计算 |  AliyunFCFullAccess | [帮助文档](https://help.aliyun.com/product/2508973.html) [计费文档](https://help.aliyun.com/document_detail/2512928.html) |
+| 日志服务 |  AliyunFCServerlessDevsRolePolicy | [帮助文档](https://help.aliyun.com/zh/sls) [计费文档](https://help.aliyun.com/zh/sls/product-overview/billing) |
 
 </service>
 
@@ -52,7 +53,7 @@
 
 <appdetail id="flushContent">
 
-本案例将 Excalidraw ，这一功能强大、易于使用的绘图工具，快速创建并部署到阿里云函数计算 FC 。
+本案例将 Excalidraw ，这一功能强大、易于使用的绘图工具，快速创建并部署到云原生应用开发平台 CAP。
 
 Excalidraw 是一个开源的手绘风格虚拟白板应用，它通过提供一个简单直观的在线界面，让用户能够轻松地创建和共享图表和草图。这个工具独特的地方在于它模拟了手绘效果，使得创建出的图表既有个性又富有表现力。用户可以在没有绘画技巧的情况下，快速绘制出看上去自然而有趣的设计图。
 
